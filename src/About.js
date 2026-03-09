@@ -3,7 +3,7 @@ import aboutImage from "./about.jpg";
 
 function About() {
   return (
-    <section className="about">
+    <section id ="about"className="about">
 
       <div className="about-image">
         <img src={aboutImage} alt="Interior Design"/>
